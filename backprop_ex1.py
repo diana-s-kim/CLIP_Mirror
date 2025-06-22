@@ -1,4 +1,5 @@
 #backpropagation
+#now the loss keep decreasing 
 import BaseResNet50
 import RNN_softmax
 from clip import clip
